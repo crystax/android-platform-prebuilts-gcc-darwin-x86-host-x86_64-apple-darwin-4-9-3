@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/Users/crystax/work/ndk/ndk/platform/prebuilts/sysroot/darwin-x86/MacOSX10.6.sdk/usr/include/stdint.h"
+	"/tmp/ndk-crystax/build/host-gcc/x86_64-apple-darwin-4.9.3/sysroot/MacOSX10.6.sdk/usr/include/stdint.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */

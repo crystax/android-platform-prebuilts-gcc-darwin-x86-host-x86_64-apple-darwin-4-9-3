@@ -24,5 +24,6 @@ Software development
 * gcov: (gcc) Gcov.            `gcov'--a test coverage program.
 
 GNU Libraries
+* libgomp: (libgomp).                    GNU OpenMP runtime library
 * libitm: (libitm).                    GNU Transactional Memory Library
 * libquadmath: (libquadmath).                  GCC Quad-Precision Math Library
