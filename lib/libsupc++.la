@@ -17,7 +17,7 @@ old_library='libsupc++.a'
 inherited_linker_flags=' '
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/tmp/ndk-crystax/build/host-gcc/build/gcc-4.9.3/x86_64-apple-darwin14.4.0/libstdc++-v3/src -L/tmp/ndk-crystax/build/host-gcc/build/gcc-4.9.3/x86_64-apple-darwin14.4.0/libstdc++-v3/src/.libs -L/tmp/ndk-crystax/build/host-gcc/build/gcc-4.9.3/x86_64-apple-darwin14.4.0/libstdc++-v3/libsupc++/.libs'
+dependency_libs=' -L/tmp/ndk-crystax/build/host-gcc/build/gcc-4.9.3/x86_64-apple-darwin14.5.0/libstdc++-v3/src -L/tmp/ndk-crystax/build/host-gcc/build/gcc-4.9.3/x86_64-apple-darwin14.5.0/libstdc++-v3/src/.libs -L/tmp/ndk-crystax/build/host-gcc/build/gcc-4.9.3/x86_64-apple-darwin14.5.0/libstdc++-v3/libsupc++/.libs'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
